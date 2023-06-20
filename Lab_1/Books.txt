@@ -1,0 +1,4 @@
+id	title	author	quantity price
+54332	Java	Ahmad	20	50
+54777	C++	Nouf	70	75
+33765	Python	Sarah	15	100

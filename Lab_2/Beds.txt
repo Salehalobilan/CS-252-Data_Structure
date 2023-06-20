@@ -1,0 +1,6 @@
+id	Brand	quantity	color	Type	Size	Price
+78435	SimLife	10	White	Twin   500  570
+44435	Zinus   100 Black	Twin    XL	900
+98405	SimLife	60	Beige	Queen   -   1500
+98335	DHP	7	White	King    -   2000
+92235	DHP	10	Brown	King    -   1800

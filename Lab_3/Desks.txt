@@ -1,0 +1,9 @@
+id	Type	quantity    color	Material    Price
+12362	Simple_Desk	30	Brown	Wood    100
+54367	L-shaped_Desk	25	Black	Wood    840
+46783	Computer_Desk	100	White	Metal   420 
+15362	Simple_Desk	75	White	Wood    245
+54307	L-shaped_Desk	28	Brown	Wood    900
+96783	Computer_Desk	100	White	Metal   685
+12300	Simple_Desk	5	Black	Plastic 20
+57767	L-shaped_Desk	10	Black	Wood    1200

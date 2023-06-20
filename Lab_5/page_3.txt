@@ -1,0 +1,5 @@
+page3:
+Since this site has not officially launched yet, this is a work in progress. The site is set to launch sometime in late 2010 with a few introductory tutorials. Programming tutorials for beginners will be added on a weekly basis after then (a few tutorials each week). The tutorials will be added in the correct learning order, i.e. the basics first
+Lesson 02: Single line comments are an easy way to comment and document your program. Explaining what is going on in your program is important for maintenance purposes, it helps you remember what is going on either if you or someone else revisits and needs to change, improve, support, fix, port (migrate to another environment) your program in the future.
+Single line comments start with // and everything to the end of the line is ignored and treated just as a comment. As such, single line comments can appear on their own lines, or after some real code on the same line.
+http://www.howtoprogram.it/home/programming-for-beginners

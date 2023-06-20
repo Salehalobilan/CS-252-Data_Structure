@@ -1,0 +1,12 @@
+page 4:
+Lesson 06: Strings can be added together by using the plus + operator
+Anywhere a string can be used, like in an output statement such as env.out, we can also use an expression which equates to a string. The expression in this case is "Hello" + " World" which equates to the string "Hello World".
+
+This may not seem useful yet, but it will be useful once you learn about variables in subsequent lessons.
+
+Not every programming language has an easy way of adding strings, sometimes concatenate functions need to be used instead. With PHP, the operator for adding strings is a full stop . rather than a plus +. Languages such as VB (Visual Basic) or VBScript use an ampersand & instead of a plus +.
+Exercises:
+1. Take the space out of the World string.
+2. Add the space to the end of the Hello string.
+3. Add a third string " and Hello Everybody".
+http://www.howtoprogram.it/home/programming-for-beginners/adding-strings
